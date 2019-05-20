@@ -1,4 +1,4 @@
-package com.raj.springdatarest.employeeapi;
+package com.raj.springdatarest.employee;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
